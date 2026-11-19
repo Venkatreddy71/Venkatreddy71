@@ -365,25 +365,13 @@ Full-stack MERN application for academic course management and faculty feedback 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                           ⚡ QUICK STATS                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Venkatreddy71&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" width="90%" alt="Trophies"/>
-
-</div>
-
-<br/>
-
 <!-- ═══════════════ ANIMATED FOOTER ═══════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,25:a855f7,50:06b6d4,75:ec4899,100:8b5cf6&height=150&section=footer" width="100%" alt="Footer"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=2000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=600&height=30&lines=%E2%9C%A8+Thanks+for+visiting!+Let's+build+something+amazing+together+%E2%9C%A8" alt="Footer Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=2000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=850&height=40&lines=%E2%9C%A8+Thanks+for+visiting!+Let's+build+something+amazing+together+%E2%9C%A8" alt="Footer Typing" />
 
 <br/><br/>
 
