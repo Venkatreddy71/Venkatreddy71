@@ -326,7 +326,7 @@ approach:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Venkatreddy71&show_icons=true&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=c9d1d9&ring_color=ec4899&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Venkatreddy71&show_icons=true&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=c9d1d9&ring_color=ec4899" width="49%" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatreddy71&layout=compact&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8&hide=shell" width="49%" alt="Top Languages"/>
 
 <br/><br/>
