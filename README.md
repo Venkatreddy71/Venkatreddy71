@@ -149,116 +149,167 @@ approach:
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"/> &nbsp;Featured Projects
 
+<!-- ──────────────────────── 1. PEOPLEPAY360 (MAIN FLAGSHIP) ──────────────────────── -->
+
 <div align="center">
 
-<!-- ───────────── PROJECT PINS ROW 1 ───────────── -->
+<img src="https://img.shields.io/badge/FLAGSHIP_PROJECT-6366F1?style=for-the-badge&logoColor=white" alt="Flagship" />
 
-<a href="https://github.com/Venkatreddy71/EcoSphere">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Venkatreddy71&repo=EcoSphere&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=c9d1d9" width="49%" />
-</a>
-<a href="https://github.com/Venkatreddy71/odoo-hackathon">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Venkatreddy71&repo=odoo-hackathon&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=c9d1d9" width="49%" />
-</a>
+### [PeoplePay360](https://github.com/Venkatreddy71/odoo-hackathon)
+**Enterprise HR and Payroll Management Platform**
+
+<br/>
+
+![React 18](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+<br/><br/>
+
+</div>
+
+> A complete **MERN-stack enterprise HR and payroll system** with statutory compliance (EPF, Gratuity), role-based access control, attendance tracking, contract management, payrun wizards, PDF payslip generation, email dispatch, and analytics dashboards built with Recharts.
+
+| Feature | Description |
+|---|---|
+| 🔐 **User Control** | HR-provisioned accounts with auto-password generation & RBAC |
+| 📝 **Contract & Salary** | Single-active contract enforcement with dynamic salary structure linking |
+| ⏱️ **Attendance** | Real-time clock-in/out with automated missing checkout alerts |
+| 🏖️ **Time Off** | Auto leave-balance deduction with multi-tier HR approval workflow |
+| 💰 **Payroll Engine** | Statutory EPF (12%), Gratuity (4.81%), and 5-step batch payrun wizard |
+| 📊 **Analytics** | Role-tailored executive KPIs with interactive Recharts visualizations |
+| 📨 **Email Outbox** | Automated credential and payslip PDF delivery with audit logging |
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Venkatreddy71/odoo-hackathon)
 
 </div>
 
 <br/>
 
+<!-- ──────────────────────── 2. ECOSPHERE ──────────────────────── -->
+
 <div align="center">
 
-<!-- ═══════════ PROJECT DETAIL CARDS ═══════════ -->
+<img src="https://img.shields.io/badge/ENTERPRISE_ESG_%26_AI-06B6D4?style=for-the-badge&logoColor=white" alt="EcoSphere Flagship" />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [EcoSphere](https://github.com/Venkatreddy71/EcoSphere)
+**Enterprise Environmental, Social & Governance (ESG) Intelligence Platform**
 
-### 🌍 [EcoSphere](https://github.com/Venkatreddy71/EcoSphere)
-> **Enterprise ESG & Sustainability Platform**
+<br/>
 
-AI-powered Environmental, Social & Governance platform for tracking carbon emissions, managing compliance audits, and CSR initiatives with real-time collaboration.
+![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Groq AI](https://img.shields.io/badge/Groq_Llama--3-F55036?style=flat-square&logo=probot&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**Highlights:**
-- 🤖 AI Advisor powered by Groq & Llama 3
-- 📊 Real-time ESG dashboards via Socket.io
-- 📄 Document intelligence with Tesseract.js OCR
-- 🏢 Enterprise RBAC with JWT authentication
-- 🐳 Dockerized PostgreSQL + Prisma ORM
+<br/><br/>
 
-`React 19` `Node.js` `Express` `PostgreSQL` `Prisma` `Socket.io` `Groq AI` `Docker`
+</div>
 
-</td>
-<td width="50%" valign="top">
+> An AI-powered **enterprise sustainability platform** built to monitor carbon emissions across Scopes 1–3, track environmental compliance audits, automate CSR engagement, and deliver predictive sustainability insights powered by Groq & Llama 3.
 
-### 💼 [PeoplePay360](https://github.com/Venkatreddy71/odoo-hackathon)
-> **HR & Payroll Management System**
+| Feature | Description |
+|---|---|
+| 🤖 **AI Sustainability Advisor** | Context-aware Groq & Llama-3 agent for recommendations, risk scoring & forecasting |
+| 🌿 **Carbon Intelligence** | Granular CO2e emission logging across operational scopes, departments, and assets |
+| ⚡ **Real-Time Collaboration** | Persistent WebSocket connection via Socket.io for instant company-wide synchronization |
+| 📄 **Document Intelligence** | Automated ESG sustainability report metric extraction using Tesseract.js OCR |
+| 🗄️ **Relational Data Layer** | PostgreSQL database with type-safe schema definitions and migrations via Prisma ORM |
+| 🐳 **Containerized Architecture** | Complete multi-container orchestration with Docker and Docker Compose |
 
-Enterprise-grade MERN application for end-to-end HR operations — attendance tracking, payroll processing, contract management, and workforce analytics.
+<div align="center">
 
-**Highlights:**
-- 📋 Attendance tracking with calendar views
-- 💰 Payrun wizards and payslip generation
-- 📊 Payroll & attendance analytics with Recharts
-- 👥 Employee management with contracts
-- ⚡ Time-off management and salary structures
-
-`React 18` `Tailwind CSS` `Node.js` `MongoDB` `Mongoose` `Recharts` `Vite`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 [Retail Data Pipeline](https://github.com/Venkatreddy71/retail-data-pipeline)
-> **ETL Pipeline & BI Dashboard**
-
-Production-ready Python ETL pipeline with star schema design, cloud MySQL database, and interactive Streamlit dashboard deployed on Streamlit Cloud.
-
-**Highlights:**
-- 🔄 Automated ETL: CSV → Clean → Star Schema → MySQL
-- 📈 Interactive BI dashboard with Plotly charts
-- ☁️ Cloud-deployed on Streamlit Cloud + Aiven MySQL
-- 🏗️ Dimensional modeling (facts & dimensions)
-- 📊 10,000+ row data processing
-
-🔗 [**Live Dashboard →**](https://venkatreddy71-retail-data-pipeline-dashboard-jiexkt.streamlit.app/)
-
-`Python` `Pandas` `MySQL` `Streamlit` `Plotly` `NumPy`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 [Faculty Feedback System](https://github.com/Venkatreddy71/my-project)
-> **Education Management Platform**
-
-Full-stack MERN application for academic course management and faculty feedback with role-based dashboards for students, faculty, and administrators.
-
-**Highlights:**
-- 🔐 Role-based access (Student / Faculty / Admin)
-- 📝 Anonymous student feedback system
-- 📚 Course & semester management
-- 📊 Analytics dashboards with Recharts
-- 🎨 Modern React UI with component library
-
-`React 19` `Node.js` `Express` `MongoDB` `Mongoose` `Recharts` `Vite`
-
-</td>
-</tr>
-</table>
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Venkatreddy71/EcoSphere)
 
 </div>
 
 <br/>
 
+<!-- ──────────────────────── 3. PAYBRIDGE ──────────────────────── -->
+
 <div align="center">
 
-<!-- ───────────── PROJECT PINS ROW 2 ───────────── -->
+<img src="https://img.shields.io/badge/AI_AGENT_%26_FINTECH-D97706?style=for-the-badge&logoColor=white" alt="PayBridge" />
 
-<a href="https://github.com/Venkatreddy71/retail-data-pipeline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Venkatreddy71&repo=retail-data-pipeline&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=c9d1d9" width="49%" />
-</a>
-<a href="https://github.com/Venkatreddy71/my-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Venkatreddy71&repo=my-project&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=a855f7&icon_color=06b6d4&text_color=c9d1d9" width="49%" />
-</a>
+### [PayBridge](https://github.com/Venkatreddy71/paybridge)
+**Autonomous Cross-Border Payment & Multi-Bank FX Intelligence Agent**
+
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Anthropic_Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Groq AI](https://img.shields.io/badge/Groq_SDK-F55036?style=flat-square&logo=probot&logoColor=white)
+![FX APIs](https://img.shields.io/badge/OpenExchangeRates-10B981?style=flat-square&logo=cashapp&logoColor=white)
+
+<br/><br/>
+
+</div>
+
+> An autonomous **AI financial agent** designed to process cross-border invoices, query real-time multi-bank FX spreads, calculate hidden fee savings, and execute dynamic payment routing using Anthropic Claude tool-calling architecture.
+
+| Feature | Description |
+|---|---|
+| 🧠 **Agentic Tool-Calling** | Multi-tool orchestrator dynamically invoking bank spread, FX rate, and savings modules |
+| 💱 **Live FX Intelligence** | Real-time interbank rate extraction and normalization via OpenExchangeRates API |
+| 🔍 **Hidden Spread Analytics** | Transparent fee comparative matrix highlighting markup spreads across commercial banks |
+| 💬 **Conversational UX** | Natural language invoice input with instant structured financial breakdown cards |
+
+<div align="center">
+
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-D97706?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Venkatreddy71/paybridge)
+
+</div>
+
+<br/>
+
+<!-- ──────────────────────── 4. RETAIL DATA PIPELINE ──────────────────────── -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DATA_ENGINEERING_%26_BI-10B981?style=for-the-badge&logoColor=white" alt="Retail Data Pipeline" />
+
+### [Retail Data Pipeline](https://github.com/Venkatreddy71/retail-data-pipeline)
+**Automated Cloud ETL Pipeline & Interactive Analytics Dashboard**
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Aiven Cloud](https://img.shields.io/badge/Aiven_Cloud-FF3554?style=flat-square&logo=aiven&logoColor=white)
+
+<br/><br/>
+
+</div>
+
+> A cloud-deployed **data engineering pipeline** that automates the ingestion, cleaning, and dimensional modeling of 10,000+ sales records into a Star Schema on Aiven Cloud MySQL, powering a real-time BI dashboard on Streamlit Cloud.
+
+| Feature | Description |
+|---|---|
+| 🔄 **Automated ETL** | Raw CSV cleaning, standardization, and batch loading via Pandas & MySQL Connector |
+| 🏗️ **Dimensional Star Schema** | Production schema with fact tables (`fact_sales`) and dimension tables for reporting |
+| 📈 **Interactive BI Dashboard** | Executive KPI metric cards, category volume analysis, and regional charts via Plotly |
+| ☁️ **Cloud Deployment** | Hosted live on Streamlit Cloud connected to a remote Aiven MySQL cluster |
+
+<div align="center">
+
+[![Live Dashboard](https://img.shields.io/badge/LIVE_DASHBOARD-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://venkatreddy71-retail-data-pipeline-dashboard-jiexkt.streamlit.app/)
+&nbsp;
+[![View Repository](https://img.shields.io/badge/VIEW_REPOSITORY-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Venkatreddy71/retail-data-pipeline)
 
 </div>
 
