@@ -21,9 +21,11 @@
 
 <!-- ═══════════════ PROFILE BADGES ═══════════════ -->
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-venkatreddy71.github.io-7c3aed?style=for-the-badge&logoColor=white)](https://venkatreddy71.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venkat_Marthala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-marthala/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/4LIQemzocC/)
 [![GitHub](https://img.shields.io/badge/GitHub-Venkatreddy71-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Venkatreddy71)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-ec4899?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morthalavenkatreddy123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-venkatreddy71.github.io-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://venkatreddy71.github.io)
+[![Email](https://img.shields.io/badge/Email-venkatmarthala16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatmarthala16@gmail.com)
 
 <br/>
 
@@ -394,16 +396,24 @@ approach:
 
 <div align="center">
 
-<a href="https://venkatreddy71.github.io">
-<img src="https://img.shields.io/badge/Portfolio-venkatreddy71.github.io-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+<a href="https://www.linkedin.com/in/venkat-marthala/">
+<img src="https://img.shields.io/badge/LinkedIn-Venkat_Marthala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:morthalavenkatreddy123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="https://leetcode.com/u/4LIQemzocC/">
+<img src="https://img.shields.io/badge/LeetCode-4LIQemzocC-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 &nbsp;
 <a href="https://github.com/Venkatreddy71">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="mailto:venkatmarthala16@gmail.com">
+<img src="https://img.shields.io/badge/Email-venkatmarthala16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://venkatreddy71.github.io">
+<img src="https://img.shields.io/badge/Portfolio-venkatreddy71.github.io-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
