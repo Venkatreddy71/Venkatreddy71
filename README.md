@@ -24,7 +24,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Venkat_Marthala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-marthala/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/4LIQemzocC/)
 [![GitHub](https://img.shields.io/badge/GitHub-Venkatreddy71-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Venkatreddy71)
-[![Portfolio](https://img.shields.io/badge/Portfolio-venkatreddy71.github.io-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://venkatreddy71.github.io)
 [![Email](https://img.shields.io/badge/Email-venkatmarthala16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatmarthala16@gmail.com)
 
 <br/>
@@ -410,10 +409,6 @@ approach:
 &nbsp;
 <a href="mailto:venkatmarthala16@gmail.com">
 <img src="https://img.shields.io/badge/Email-venkatmarthala16@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://venkatreddy71.github.io">
-<img src="https://img.shields.io/badge/Portfolio-venkatreddy71.github.io-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
