@@ -14,7 +14,7 @@
 <!-- ═══════════════ ANIMATED TYPING ═══════════════ -->
 
 <a href="https://github.com/Venkatreddy71">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%AE+Building+Enterprise+Platforms+with+MERN+%2B+AI;%F0%9F%9A%80+Crafting+Data+Pipelines+%26+Real-Time+Systems;%E2%9A%A1+React+%7C+Node.js+%7C+Python+%7C+PostgreSQL+%7C+Docker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=145&lines=%F0%9F%94%AE+Building+Enterprise+Platforms+with+MERN+%2B+AI;%F0%9F%9A%80+Crafting+Data+Pipelines+%26+Real-Time+Systems;%E2%9A%A1+React+%7C+Node.js+%7C+Python+%7C+Java+%7C+PostgreSQL+%7C+Docker" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -50,18 +50,19 @@
 name: Venkat Marthala
 location: India
 username: Venkatreddy71
-focus: Full-Stack Development & Data Engineering
+focus: Full-Stack Development, Agentic AI & Data Engineering
 
 building:
   - Enterprise ESG platforms with AI advisors
+  - Agentic cross-border payment & advisory systems
   - HR & Payroll management systems
   - ETL data pipelines with BI dashboards
-  - Real-time collaborative web applications
+  - Data Structures & Algorithms in Java (LeetCode)
 
 approach:
   - MERN stack for scalable full-stack apps
-  - Python for data engineering & analytics
-  - AI/LLM integration for intelligent features
+  - Python & FastAPI for data pipelines & agentic AI
+  - Anthropic & Groq for intelligent LLM orchestration
   - Docker for containerized deployments
 ```
 
@@ -85,6 +86,7 @@ approach:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -101,6 +103,7 @@ approach:
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
@@ -111,12 +114,14 @@ approach:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
 ### 🤖 AI & Data
 
 ![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logo=probot&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google AI](https://img.shields.io/badge/Google_Generative_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -316,11 +321,12 @@ Full-stack MERN application for academic course management and faculty feedback 
 <div align="center">
 
 ```
-🔗 Blockchain Development          ← iov-blockchain project initiated
-🧠 Advanced AI/LLM Integration     ← Building with Groq, Google AI, and Llama 3
+🧩 Data Structures & Algorithms     ← Problem solving in Java (LeetCode)
+🤖 Agentic AI & Tool-Calling       ← Autonomous agents with Claude & Groq
+🔗 Blockchain Development          ← iov-blockchain architecture
 🐳 Container Orchestration         ← Docker & Docker Compose workflows
-📊 Data Engineering at Scale       ← ETL pipelines, star schemas, cloud databases
-⚡ Real-Time System Architecture   ← WebSockets & Socket.io enterprise patterns
+📊 Data Engineering at Scale       ← ETL pipelines, star schemas, cloud MySQL
+⚡ Real-Time Systems                ← WebSockets & Socket.io enterprise patterns
 ```
 
 </div>
